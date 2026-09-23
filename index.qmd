@@ -1,0 +1,28 @@
+---
+title: "Mar Bernal i Fló"
+---
+
+# Hi, I'm Mar 👋
+
+PhD Student in Ecology at SLU.   
+
+My research combines bioacoustics, biodiversity monitoring, conservation technology and computational ecology to better understand and monitor forest ecosystems.   
+
+## Current Research   
+
+Developing bioacoustic methods for monitoring and quantifying biodiversity in Swedish forests.
+
+### Main themes
+
+- Passive acoustic monitoring (PAM)
+- Forest biodiversity
+- Birds and bats
+- Conservation technology
+- Computational ecology
+- Forest management and conservation
+
+### ForestEchoes   
+*Bringing the sounds of the forest into the ecologist's toolbox*   
+
+ForestEchoes develops bioacoustic methods for biodiversity monitoring and ecological research in Swedish forests.
+
